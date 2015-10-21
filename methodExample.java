@@ -1,4 +1,6 @@
 /**
+* This program prompts the user to enter two intergers then
+* calls other method to calculate those numbers. 
 * @author: Vananh Vo 
 * Source: methodExample.java
 */
